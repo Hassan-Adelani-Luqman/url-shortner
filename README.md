@@ -16,12 +16,6 @@ A modern, full-featured URL shortener web app. Shorten long links, customize you
 
 ---
 
-## 🖼️ Screenshots
-
-> _Add screenshots of the landing page, dashboard, and analytics views here._
-
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** React 18, Vite, React Router, Tailwind CSS, Radix UI
